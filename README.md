@@ -26,29 +26,6 @@ This is a web app that gives users an unique shopping experience. Users can pick
 ## Screenshots
 
 
-
-
-
-
-
-<span>
-<img src="./_screenshots/study-question.png" width="300"/>&nbsp;&nbsp;
-<img src="./_screenshots/date-picker.png" width="300"/>
-</span>
-
-<span>
-<img src="./_screenshots/travel.png" width="300"/>&nbsp;&nbsp;
-<img src="./_screenshots/pr-date.png" width="300"/>
-</span>
-
-
-
-<img src="./_screenshots/summary.png" width="300"/>
-
-
-
-<img src="./_screenshots/result.png" width="300"/>
-
 ### Responsive screenshots
 
 <span>
